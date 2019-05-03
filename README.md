@@ -3,6 +3,7 @@
 - Upload some images to the repo 
 - connect repo to skizzu.com 
 - write down all my available working platforms and how they connect.
+- 4th drop down option.
 
 ## Welcome to GitHub Pages
 
