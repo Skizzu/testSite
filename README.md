@@ -1,3 +1,9 @@
+# Skizzu
+
+- Upload some images to the repo 
+- connect repo to skizzu.com 
+- write down all my available working platforms and how they connect.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Skizzu/testSite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
